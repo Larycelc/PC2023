@@ -1,8 +1,32 @@
-h1 { font-size: medium;
-    text-align: center;
-    background-color: beige;
+nav a
+{
+    text-transform: uppercase;
+    color: rgba(144, 233, 141, 0.966);
+    font-weight: 300;
+    font-size: 100%;
+    text-decoration: none ;
+    border-color: rgb(175, 222, 253);
+    border-width: 10px;
+    border-style: solid;
 }
-p{
-text-align: center;
-font-size: medium;
+
+.imagem1 {
+  width: 20%
+}
+
+.centralizar {
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 1.5%;
+  padding: 30px 20px;
+  border-color: pink;
+  border-width: 30px;
+  border-style: solid;
+  background-color: rgb(137, 174, 255);
+}
+
+body {
+  background-color: aquamarine;
+  text-align:center;
 }
