@@ -30,3 +30,7 @@ body {
   background-color: aquamarine;
   text-align:center;
 }
+nav a:hover {
+    color: blue
+    text-decoration: underline
+}
